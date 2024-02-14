@@ -1,0 +1,31 @@
+Systems> Sistem Sabit Modüller Eklenecek
+Bunların Görüümleri Dilleri burada olacak
+
+Services > Servis Modüleri
+Bunların Görüümleri Dilleri burada olacak
+
+Products > Ürün Modüleri Seo hizmeti lisans ssl sertifika
+Bunların Görüümleri Dilleri burada olacak
+
+Payments > Ödeme Modülleri
+Bunların Görüümleri Dilleri burada olacak
+
+Integrators > entegre modüller
+Bunların Görüümleri Dilleri burada olacak
+
+Auths > Sosyal Modüller
+Bunların Görüümleri Dilleri burada olacak
+
+Modül ve sistem güncelelndiğinde temada hiçbir değişilik olmayacak cünkü modüllerin kendi "viev" görünümleri var. Anasablonu
+
+Assets ve js dosyalarını tema ana omurgasını templates (fronted ve backend) klasörden cekecek şekilde kodlanırsa her versiyon güncellemesinde temeda değişiklik olmayacak. zaten modül viev değiştidiği için temanın default+ header footer sidebar
+gibi elementlerini modüller viev içinde bağlantı kurulacak.
+
+Admin panelden Aktif Pasif kaldır Ayarlar olucak.
+
+Worpresteki gibi Plugin ve Tema Yöneticisi olucak
+yükleyip aktif edebilecek
+
+
+
+

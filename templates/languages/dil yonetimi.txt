@@ -1,0 +1,6 @@
+Dil yönetimi
+
+Adminden tema dili
+Modül dili diye tüm dilleri cekecek. ordan düzenleme yapabilcek
+yeni dil eklediğinde bütün modul ve temalar için dil klasörü acıcak
+dili adminden varsayılan dil ingilizce üzeriden değiştirebilecek

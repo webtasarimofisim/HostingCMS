@@ -1,0 +1,5 @@
+burada admin tema alanıdr.
+Assets içinde css js img svg font plugin gibi tüm içeirkler yer alıcak
+
+view
+içinde Standart sayfalar olucak. modül sablonuna göre kodlanacak modül eklendşğinde otomatik içine boostrap şeklinde eklenecek

@@ -1,0 +1,1 @@
+Modül ve templates kalsörlerinde txt dosyalarında acıklama vardır.

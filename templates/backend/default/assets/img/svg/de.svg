@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="tr-box" width="20" height="20" rx="10" transform="translate(1420 237)" fill="#e30a17"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(-1420 -237)" clip-path="url(#clip-path)">
+    <g id="de" transform="translate(1411 235)">
+      <rect id="black_stripe" width="39" height="24"/>
+      <rect id="red_stripe" width="39" height="16" transform="translate(0 8)" fill="#d00"/>
+      <rect id="gold_stripe" width="39" height="8" transform="translate(0 16)" fill="#ffce00"/>
+    </g>
+  </g>
+</svg>
